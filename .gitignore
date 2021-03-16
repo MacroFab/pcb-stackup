@@ -4,3 +4,4 @@ coverage
 integration/public/bundle.js
 integration/boards.json
 example/*.svg
+package-lock.json
